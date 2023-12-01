@@ -1,3 +1,5 @@
 Aragorn
 
 Legolas
+
+Sam
